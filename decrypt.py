@@ -35,7 +35,7 @@ PASSWORDS = {
     '.tut': b'fubvx788b46v',
     '.sks': b'dyv35224nossas!!',
     '.tmt': b'fubvx788B4mev',
-    '.wlt': b'FwUHeXACPwJobBM6F3lTNxF3f1EaEAdYfg0Rew==',
+    '.wtl': b'FwUHeXACPwJobBM6F3lTNxF3f1EaEAdYfg0Rew==',
 }
 
 # some utility functions
